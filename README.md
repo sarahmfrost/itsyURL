@@ -1,7 +1,7 @@
 # itsyURL
 Make your own TinyURL!
 
-
+** Work in progress, please check back soon
 
 Prereq:
 1. git installed
